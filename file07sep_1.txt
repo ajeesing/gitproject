@@ -5,7 +5,6 @@ replace
 diffshowreplace
 diffshowreplace
 diffshowreplace
-<<<<<<< HEAD
 diffshow
 
 
@@ -16,6 +15,24 @@ replace
 diffshowreplace
 diffshowreplace
 diffshowreplace
-=======
->>>>>>> 2560666cbd45f392618e5ab40bd14e891c55629a
+diffshow
+
+
+replace
+diffshow
+
+replace
+diffshowreplace
+diffshowreplace
+diffshowreplace
+diffshow
+
+
+replace
+diffshow
+
+replace
+diffshowreplace
+diffshowreplace
+diffshowreplace
 diffshow
